@@ -21,6 +21,6 @@ Les principaux objectifs de ce projet sont de démontrer les concepts de base de
 Avec terminal
 Vous pouvez cloner ce dépôt en utilisant la commande suivante :
 
-git clone https://github.com/Thanhtruc99/PONG3D.git
-make
+git clone https://github.com/Thanhtruc99/PONG3D.git \n
+make \n
 ./PONG3D
